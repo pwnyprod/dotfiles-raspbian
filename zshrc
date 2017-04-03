@@ -16,3 +16,5 @@ SAVEHIST=20000
 
 export BUNDLER_EDITOR="vim"
 export EDITOR="vim"
+export PATH="$HOME/.rbenv/bin:$PATH"
+eval "$(rbenv init -)"
